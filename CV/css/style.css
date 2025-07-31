@@ -269,22 +269,25 @@ ul
 {
     flex: 0 0 60%;
     max-width: 60%;
+    color: var(--text-black-900);
+    font-size: 25px;
 }
 h3.hello
 {
-    font-size: 28px;
+    font-size: 30px;
     margin: 15px 0;
+    color: var(--text-black-900);
 }
 h3.hello span
 {
     font-family: 'Clicker Script' , cursive;
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 700;
     color: var(--skin-color);    
 }
 h3.my-profession
 {
-    font-size: 30px;
+    font-size: 35px;
     margin: 15px 0;
 }
 .typing
